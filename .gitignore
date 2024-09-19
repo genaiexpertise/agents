@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.streamlit/
+temp.txt 
+
 # C extensions
 *.so
-
+.env
 # Distribution / packaging
 .Python
 build/
